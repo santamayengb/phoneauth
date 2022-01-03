@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "450737266712",
+    "firebase_url": "https://smartdesk-f9f3f-default-rtdb.firebaseio.com",
+    "project_id": "smartdesk-f9f3f",
+    "storage_bucket": "smartdesk-f9f3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450737266712:android:08fa9528a24d57df62a36d",
+        "android_client_info": {
+          "package_name": "com.example.mysmartdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450737266712-1mrucl409tcagbubl839breaa604tak2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG71R82eICUoQ8s8oIacp1_07dSJuJrS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450737266712-1mrucl409tcagbubl839breaa604tak2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450737266712:android:caa29588259203a662a36d",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450737266712-6a4tq2k679hofho30bqsdcnua44vtvi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phoneauth",
+            "certificate_hash": "4591e73da74c3299bdcf419afa264ee91dc1d5e2"
+          }
+        },
+        {
+          "client_id": "450737266712-1mrucl409tcagbubl839breaa604tak2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG71R82eICUoQ8s8oIacp1_07dSJuJrS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450737266712-1mrucl409tcagbubl839breaa604tak2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
